@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "aarch64-cross",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/../axLib/include"
+            ],
+            "defines": [
+                "__AARCH64__"
+            ],
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
