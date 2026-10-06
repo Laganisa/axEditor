@@ -1,3 +1,3 @@
 # axEditor
 
-Standalone editor project split out from axShell.
+laganisa 의 공부용 편집기
